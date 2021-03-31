@@ -10,7 +10,7 @@
    ![alt text](../main/Deliverable2.png) 
 
 - Clustering Cryptocurrencies Using K-means (Deliverable 3):
-  - The best k value appears to be 4:
+  - The best k value appears to be 4:                                       
    ![alt text](../main/Deliverable3_Elbow.png) 
   - Cluster DataFrame:
    ![alt text](../main/Deliverable3_KMeans.png) 
