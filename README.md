@@ -7,7 +7,7 @@
   ![alt text](../main/Deliverable1.png) 
 
 - Reducing Data Dimensions Using PCA (Deliverable 2):
-   ![alt text](../main/RandomOversampling_Deliverble2.png) 
+   ![alt text](../main/Deliverable2.png) 
 
 - Clustering Cryptocurrencies Using K-means (Deliverable 3):
   - The best k value appears to be 4:
