@@ -2,7 +2,7 @@
 - The purpose of this analysis was to apply unsupervised machine learning to analyze a database of cryptocurrencies. Refer to [crypto_clustering.ipynb](../main/crypto_clustering.ipynb)
 
 ## Challenge
-- Perform the analysis from [crypto_data.csv](../main//Resources/crypto_data.csv) for the following four technical analysis deliverables:
+- Perform the analysis from [crypto_data.csv](../main//Resources/crypto_data.csv) by the following four technical analysis deliverables:
 - Preprocessing the Data for PCA (Deliverable 1):
   ![alt text](../main/Deliverable1.png) 
 
